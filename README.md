@@ -14,7 +14,7 @@ Machine learning algorithms with Matlab.
 
 
 #### Other scripts 
-  
+  	* Confusion Matrix
 
 
 ###### Contact
