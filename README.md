@@ -17,4 +17,4 @@ Machine learning algorithms with Matlab.
 
 
 ###### Contact
-    * Please, contact me by: dihnegretto@gmail.com
+    * Please, contact me by email: dihnegretto@gmail.com
