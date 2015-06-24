@@ -10,3 +10,11 @@ Machine learning algorithms with Matlab.
 
 
 #### Non-supervised learning algorithms
+
+
+
+
+
+
+###### Contact
+    * Please, contact me by: dihnegretto@gmail.com
