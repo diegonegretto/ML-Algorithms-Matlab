@@ -1,4 +1,4 @@
-%   Algoritmo "Label Propagation", by Zhu and Ghahramani (2002)
+%   Algorithm "Label Propagation", by Zhu and Ghahramani (2002)
 %   
 %   Usage: owner = labelprop(X,slabel,sigma,disttype,nclass,iter)
 %   
