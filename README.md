@@ -7,6 +7,7 @@ Machine learning algorithms with Matlab.
 
 #### Semi-supervised learning algorithms
     * Label Propagation (Zhu and Ghahramani, 2002)
+    * Linear Neighborhood Propagation (Fei Wang et. al.) 
 
 
 #### Non-supervised learning algorithms
